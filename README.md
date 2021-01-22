@@ -1,3 +1,4 @@
 # Snake
-Snake Game using p%>js
-Demo at pkim168.github.io/Snake
+Snake Game using p5.js
+
+Demo at https://pkim168.github.io/Snake
